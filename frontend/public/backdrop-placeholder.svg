@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <rect width="1280" height="720" fill="#1a1a1a"/>
+  <path d="M580 280C580 257.909 597.909 240 620 240H660C682.091 240 700 257.909 700 280V320C700 342.091 682.091 360 660 360H620C597.909 360 580 342.091 580 320V280Z" fill="#333333"/>
+  <path d="M540 400C540 393.373 545.373 388 552 388H728C734.627 388 740 393.373 740 400V480C740 486.627 734.627 492 728 492H552C545.373 492 540 486.627 540 480V400Z" fill="#333333"/>
+  <text x="640" y="580" font-family="system-ui, sans-serif" font-size="28" font-weight="600" fill="#555555" text-anchor="middle">No Backdrop Available</text>
+</svg>

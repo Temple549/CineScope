@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="278" viewBox="0 0 185 278" fill="none">
+  <rect width="185" height="278" fill="#1a1a1a"/>
+  <circle cx="92.5" cy="120" r="40" fill="#333333"/>
+  <path d="M62 180C62 173.373 67.373 168 74 168H111C117.627 168 123 173.373 123 180V210C123 216.627 117.627 222 111 222H74C67.373 222 62 216.627 62 210V180Z" fill="#333333"/>
+  <text x="92.5" y="250" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#555555" text-anchor="middle">No Photo</text>
+</svg>
